@@ -70,6 +70,7 @@ main{
     padding: 5vh 8vw 5vh 8vw;
     font-size: 20px;
     margin-top: 7vh;
+    display: none;
 }
 
 .contact img{
